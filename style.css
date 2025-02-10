@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Poiret+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+h1{
+    font-family: "Dancing Script", serif;
+    font-size: 2.5rem;
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -19,11 +25,6 @@ header{
     color: azure;
     padding: 15px;
     text-align: center;
-}
-
-h1{
-    font-family: "dancing-script", serif;
-    font-size: 2.5rem;
 }
 
 nav{
